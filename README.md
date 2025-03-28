@@ -1,5 +1,7 @@
 # Chris H GitHub Portfolio
 
+![Welcome dog](https://github.com/user-attachments/assets/4c8c9d0e-6c30-4299-81b0-bec91c39540b)
+
 Here is a collection of my favorite personal projects. 
 
 ### There are more detailed READMEs in each folder. Additionally, both projects have video overviews (both under 3 mins) showing you the projects in action and explaining the code quickly.
