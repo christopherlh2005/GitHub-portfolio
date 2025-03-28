@@ -10,7 +10,7 @@ Due to the need for GPU resources, it is difficult to run the program natively. 
 
 ## Video: 
 
-https://drive.google.com/file/d/1l-15OCQm-zCuZIRw7RoiQ96KWyomB0mf/view?usp=sharing
+https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing
 
 ## Code Overview: 
 
