@@ -2,7 +2,7 @@
 
 ![dog welcome 2](https://github.com/user-attachments/assets/e7bf38a4-db9d-49e9-9dea-3d4009eece46)
 
-Here is a collection of my favorite personal projects. 
+Here is a collection of my favorite personal projects. Unfortunately, neither project was directly coded on this repo. They were coded on other repos in my GitHub, but I am unable to share my entire GitHub since it has university assignments (against university policy).
 
 ### There are more detailed READMEs in each folder. Additionally, both projects have video overviews (both under 3 mins) showing you the projects in action and explaining the code quickly.
 
