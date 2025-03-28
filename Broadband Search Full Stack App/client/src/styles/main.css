@@ -1,0 +1,136 @@
+/* CSS for Main Select interface */
+
+.dropdown {
+  width: 220px;
+  min-width: 150px; /* Ensures usability on smaller screens */
+  max-width: 300px;
+  margin: 15px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.dropdown-container {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.dropdown > option {
+  text-align: left;
+}
+
+button {
+  background-color: #163d61;
+  color: white;
+  margin: 20px auto;
+  padding: 10px 20px;
+  display: block;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+/** centers the button **/
+
+.table-container {
+  display: flex;
+  flex-direction: column;
+  /* align-content: center;
+  justify-content: center; */
+  width: 100%;
+  max-width: 1200px;
+  max-height: 80vh;
+  overflow-x: auto;
+  overflow-y: auto;
+  border: 1px solid white;
+}
+
+th, td {
+  padding: 15px;
+  border: 1px solid white;
+  text-align: center;
+  
+}
+
+table {
+  border: 1px solid #000000;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+
+.search-bar {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.search-bar:focus {
+  border-color: #7db7d6;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Responsive styles for Mobile (Samsung Galaxy S8+) */
+@media only screen and (max-width: 400px) {
+
+  .dropdown {
+    width: 70%;
+    font-size: 2rem; /* Larger font for readability */
+    padding: 10px;
+    font-size: 15px;
+  }
+
+  .dropdown-container {
+    padding-top: 40px;
+    padding-bottom: 10px;
+  }
+
+  button {
+    width: 30%;
+    font-size: 20px; /* Larger, tap-friendly button */
+    padding: 10px;
+    background-color: #163d61;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .table-container {
+    width: 100%;
+    max-height: 60vh;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    font-size: 50rempx; /* Ensures text is not too small */
+  }
+
+  th, td {
+    padding: 12px;
+    width: 100%;
+    font-size: 20px; /* Maintain readability */
+  }
+
+  .search-bar {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    font-size: 14px;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .search-bar:focus {
+    border-color: #7db7d6;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+}
