@@ -1,6 +1,6 @@
 # Chris H GitHub Portfolio
 
-![Welcome dog](https://github.com/user-attachments/assets/4c8c9d0e-6c30-4299-81b0-bec91c39540b)
+![dog welcome 2](https://github.com/user-attachments/assets/e7bf38a4-db9d-49e9-9dea-3d4009eece46)
 
 Here is a collection of my favorite personal projects. 
 
