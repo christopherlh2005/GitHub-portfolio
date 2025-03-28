@@ -27,7 +27,10 @@ https://drive.google.com/file/d/1RZmLy6_XNXK29ZUVbN4IiXJhSk9YnHmc/view?usp=shari
 ## File Guide
 
 clerk-react = authentication handling
+
 client = the front-end with HTML, CSS, and Typescript as well as Playwright tests (under the tests subfolder)
+
 data = mocked data to test backend
+
 src = backend of the program with JUnit tests under the test subfolder
 
