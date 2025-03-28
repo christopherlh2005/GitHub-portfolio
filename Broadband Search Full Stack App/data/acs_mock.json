@@ -1,0 +1,14 @@
+[
+
+  {
+    "metadata": ["NAME", "S2802_C03_022E", "state", "county"],
+    "data": [
+      ["Shiawassee County, Michigan", "81.5", "26", "155"],
+      ["Wayne County, Michigan", "78.2", "26", "163"],
+      ["Cook County, Illinois", "85.1", "17", "031"],
+      ["Union County, New Jersey", "17.2", "15", "001"],
+      ["Lebanon County, Pennsylvania", "39.1", "20", "901"]
+    ]
+  }
+
+]
