@@ -2,8 +2,7 @@
 
 ## Project Details
 
-- Project Name: Broadband Search Application
-- Team Members: clho, gwang71
+I have long been committed to helping expand broadband (high-speed internet) access since I noticed vast disparities in my public school during the pandemic. It's crucial to have internet access to function in the 21st Century. I've done research to expand broadband access with my state representative, but I also wanted to have a program where you could see broadband accessibiliy nationwide to highlight the problem.
 
 This application has 2 main functions. 
 
