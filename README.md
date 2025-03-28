@@ -1,6 +1,8 @@
 # GitHub-portfolio
 
-Here is a collection of my favorite personal projects. There are more detailed READMEs in each folder. Additionally, both projects have video overviews (both under 3 mins) showing you the projects in action and explaining the code quickly.
+Here is a collection of my favorite personal projects. 
+
+### There are more detailed READMEs in each folder. Additionally, both projects have video overviews (both under 3 mins) showing you the projects in action and explaining the code quickly.
 
 ## Depression Classifier 
 
