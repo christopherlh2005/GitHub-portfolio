@@ -1,4 +1,4 @@
-# GitHub-portfolio
+# Chris H GitHub Portfolio
 
 Here is a collection of my favorite personal projects. 
 
