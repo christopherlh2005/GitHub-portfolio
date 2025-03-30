@@ -1,6 +1,6 @@
 # Broadband Search Full Stack App
 
-![shutterstock_416783143](https://github.com/user-attachments/assets/2e011e28-8e48-499a-b4e8-ada43eb4434c | width=100)
+![15392](https://github.com/user-attachments/assets/871762c3-6351-4ebe-b6e1-30922ca9c3bc)
 
 ## Project Details
 
