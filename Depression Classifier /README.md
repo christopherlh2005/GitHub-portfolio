@@ -1,5 +1,7 @@
 # Depression Classifier
 
+![istockphoto-2148445361-612x612-2](https://github.com/user-attachments/assets/b6da1f54-2e7e-47a3-aa8a-c127bbd54fba)
+
 ## Overview:
 
 This project is a way to fight the mental health crisis by identifying people with depression based on their social media posts. It is trained on 2 million Reddit posts (a mixture of actual posts showing depression and control group posts). The classifier uses LDA (Latent Dirichlet allocation) and roBERTa embeddings to train a RandomForestClassifier to classify specific posts as either depression related or not. The program achieves approximately 85% accuracy (ignore LDA accuracy). I coded it using the pyTorch, sklearn, and Hugging Face transformers libraries. 
