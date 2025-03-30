@@ -17,6 +17,8 @@ This project is a way to fight the mental health crisis by identifying people wi
 Video:
 https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing
 
+For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed REAME and code.
+
 
 ## Broadband Search Full Stack App - Team Project
 
@@ -30,3 +32,6 @@ Additionally, this application is password protected and has aria labels that al
 The application backend uses Java (with JUnit tests), and the frontend uses Typescript, CSS, and HTML (with Playwright tests). It was developed through agile development via sprints.
 
 Video: https://drive.google.com/file/d/1RZmLy6_XNXK29ZUVbN4IiXJhSk9YnHmc/view?usp=sharing
+
+For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed REAME and code.
+
