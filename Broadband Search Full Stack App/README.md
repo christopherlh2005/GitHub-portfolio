@@ -1,5 +1,7 @@
 # Broadband Search Full Stack App
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spectrum.com%2Fresources%2Finternet-wifi%2Fwhat-is-broadband-internet&psig=AOvVaw3TAMHgD6KUJWIqnJg4N9gt&ust=1743446431697000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiE-5u6sowDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/825bb2f1-da02-4014-8490-7c9cdeed81ce)
+
 ## Project Details
 
 I have long been committed to helping expand broadband (high-speed internet) access since I noticed vast disparities in my public school during the pandemic. It's crucial to have internet access to function in the 21st Century. I've done research to expand broadband access with my state representative, but I also wanted to have a program where you could see broadband accessibiliy nationwide to highlight the problem.
