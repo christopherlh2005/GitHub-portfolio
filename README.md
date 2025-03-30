@@ -29,7 +29,7 @@ corresponding broadband percentage. We additionally designed the application to 
 
 Additionally, this application is password protected and has aria labels that allow blind/visually impaired people to use it via a screenreader. 
 
-The application backend uses Java (with JUnit tests), and the frontend uses Typescript, CSS, and HTML (with Playwright tests). It was developed through agile development via sprints.
+The application backend uses Java (with JUnit tests), and the frontend uses Typescript, CSS, and HTML (with Playwright tests). It was developed through agile development via sprints with a team of people.
 
 Video: https://drive.google.com/file/d/1RZmLy6_XNXK29ZUVbN4IiXJhSk9YnHmc/view?usp=sharing
 
