@@ -14,24 +14,15 @@ Here is a collection of my favorite personal projects. No project was directly c
 This project is a way to fight the mental health crisis by identifying people with depression based on their social media posts. It is trained on 2 million Reddit posts (a mixture of actual posts showing depression and control group posts). The classifier uses LDA (Latent Dirichlet allocation) and roBERTa embeddings to train a RandomForestClassifier to classify specific posts as either depression related or not. The program achieves approximately 85% accuracy (ignore LDA accuracy). I coded it using the pyTorch, sklearn, and Hugging Face transformers libraries.
 
 
-Video:
-https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing
+[Video] (https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing)
 
-For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed REAME and code.
+For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed README and code.
 
 
-## Broadband Search Full Stack App - Team Project
+## Generating Novel Molecules with a Sequential VAE
 
-I have long been committed to helping expand broadband (high-speed internet) access since I noticed vast disparities in my public school during the pandemic. It's crucial to have internet access to function in the 21st Century. I've researched to expand broadband access with my state representative, but I also wanted to have a program where you could see broadband accessibility nationwide to highlight the problem.
+This group project uses Variational Autoencoders to generate novel molecules made up of carbon, hydrogen, oxygen, nitrogen, and fluorine atoms. Our goal was twofold: generate chemically stable molecules that follow fundamental laws of physics and chemistry, and generate truly novel molecules not found in existing datasets. Our model achieves 98% validity and 65% novelty. 
 
-The application allows the user to search the Census using our API by entering the state and county to get the
-corresponding broadband percentage. We additionally designed the application to enable mock csv files to be loaded in the backend server, and then you can view the data in tabular or bar graph form and search the csv file for keywords.
+We use a Sequential VAE with a bidirectional GRU encoder and an autoregressive GRU decoder operating on SMILES strings. The model was trained on the QM9 dataset (135k small stable molecules) using a combined cross-entropy and KL loss with an Adam optimizer.
 
-Additionally, this application is password protected and has aria labels that allow blind/visually impaired people to use it via a screenreader. 
-
-The application backend uses Java (with JUnit tests), and the frontend uses Typescript, CSS, and HTML (with Playwright tests). It was developed through agile development via sprints with a team of people.
-
-Video: https://drive.google.com/file/d/1RZmLy6_XNXK29ZUVbN4IiXJhSk9YnHmc/view?usp=sharing
-
-For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed REAME and code.
-
+For More Details: View this poster and click on the subfolder to access the more detailed README and code.
