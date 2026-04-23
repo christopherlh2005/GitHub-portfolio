@@ -6,7 +6,7 @@
 This group project uses Variational Autoencoders to generate novel molecules made up of carbon, hydrogen, oxygen, nitrogen, and fluorine atoms. Our goal was twofold: generate chemically stable molecules that follow the fundamental laws of physics and chemistry, and generate truly novel molecules not found in existing datasets. Our model achieves **98% validity** and **65% novelty**, far exceeding our original stretch goals. Built using PyTorch and RDKit.
 
 ## How to View the Project
-The full code is available in the `.py` file. The `.ipynb` file contains the original Google Colab notebook with all outputs. For a visual breakdown of the architecture, data pipeline, and generated molecules, view the [project poster](molecule-generation/Poster.pdf).
+The full code is available in the `.py` file. The `.ipynb` file contains the original Google Colab notebook with all outputs. For a visual breakdown of the architecture, data pipeline, and generated molecules, view the [project poster](Poster.pdf).
 
 ## Code Overview
 The model uses a Sequential VAE with a bidirectional GRU encoder and an autoregressive GRU decoder operating on SMILES strings — a text-based representation of molecular structure. The model was trained on the QM9 dataset (135k small stable molecules) using a combined cross-entropy and KL loss with an Adam optimizer, and teacher forcing during training to improve sequence accuracy.
