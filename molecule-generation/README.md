@@ -1,6 +1,6 @@
 ## Generating Novel Molecules with a Sequential VAE
 
-![description](poster_preview.png)
+![description](molecule-generation/poster_preview.png)
 
 This group project uses Variational Autoencoders to generate novel molecules made up of carbon, hydrogen, oxygen, nitrogen, and fluorine atoms. Our goal was twofold: generate chemically stable molecules that follow the fundamental laws of physics and chemistry, and generate truly novel molecules not found in existing datasets. Our model achieves **98% validity** and **65% novelty**, far exceeding our original stretch goals. Built using PyTorch and RDKit.
 
