@@ -14,7 +14,7 @@ Here is a collection of my favorite personal projects. No project was directly c
 This project is a way to fight the mental health crisis by identifying people with depression based on their social media posts. It is trained on 2 million Reddit posts (a mixture of actual posts showing depression and control group posts). The classifier uses LDA (Latent Dirichlet allocation) and roBERTa embeddings to train a RandomForestClassifier to classify specific posts as either depression related or not. The program achieves approximately 85% accuracy (ignore LDA accuracy). I coded it using the pyTorch, sklearn, and Hugging Face transformers libraries.
 
 
-[Video] (https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing)
+[Video](https://drive.google.com/file/d/10zwUojxGFCxgMex6iIcikIJsa3poh8Ff/view?usp=sharing)
 
 For More Details: Watch the video (about 2 mins long) and click on the subfolder to access the more detailed README and code.
 
@@ -25,4 +25,4 @@ This group project uses Variational Autoencoders to generate novel molecules mad
 
 We use a Sequential VAE with a bidirectional GRU encoder and an autoregressive GRU decoder operating on SMILES strings. The model was trained on the QM9 dataset (135k small stable molecules) using a combined cross-entropy and KL loss with an Adam optimizer.
 
-For More Details: View this poster and click on the subfolder to access the more detailed README and code.
+For More Details: View this [project poster](molecule-generation/Poster.pdf) and click on the subfolder to access the more detailed README and code.
